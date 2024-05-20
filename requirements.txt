@@ -1,0 +1,6 @@
+tkinter
+os
+sys
+PIL
+io
+wav
